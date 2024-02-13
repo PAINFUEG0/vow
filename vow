@@ -1,0 +1,36 @@
+{
+  "prefix": "%",
+  "color": "#88ff55",
+  "owners": ["692617937512562729"],
+  "admins": ["692617937512562729"],
+  "topgg": {
+    "uri": "https://top.gg/bot/1050423676689985606/vote",
+    "auth": ""
+  },
+  "links": {
+    "support": "https://dsc.gg/1st-services"
+  },
+  "player": {
+    "spotify": {
+      "id": "731ac5bf0603411f80ac446f5c02e290",
+      "secret": "cd16a34c385b4fa5915abd596fd4e480"
+    },
+    "lavalink": [
+      {
+        "secure": false,
+        "name": "Fuego [PVT]",
+        "auth": "glasshost1984",
+        "url": "n1.ll.darrennathanael.com:2269"
+      }
+    ],
+    "searchEngine": "youtube"
+  },
+  "webhooks": {
+    "error": "",
+    "static": "",
+    "server": "",
+    "player": "",
+    "command": ""
+  },
+  "token": ""
+}
