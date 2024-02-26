@@ -17,10 +17,10 @@
     },
     "lavalink": [
       {
-        "secure": false,
-        "name": "Fuego [PVT]",
-        "auth": "glasshost1984",
-        "url": "n1.ll.darrennathanael.com:2269"
+        "url": "",
+        "name": "",
+        "auth": "",
+        "secure": false
       }
     ],
     "searchEngine": "youtube"
