@@ -12,8 +12,8 @@
   },
   "player": {
     "spotify": {
-      "id": "731ac5bf0603411f80ac446f5c02e290",
-      "secret": "cd16a34c385b4fa5915abd596fd4e480"
+      "id": "500295ff7af14eab8867381183553638",
+      "secret": "5c5696323ce54e18bffb79e02f1e8ebb"
     },
     "lavalink": [
       {
@@ -26,11 +26,7 @@
     "searchEngine": "youtube"
   },
   "webhooks": {
-    "error": "",
-    "static": "",
-    "server": "",
-    "player": "",
-    "command": ""
+    "vote": ""
   },
   "token": ""
 }
