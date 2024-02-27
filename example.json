@@ -1,32 +1,31 @@
 {
-  "prefix": "%",
-  "color": "#AAE5FE",
-  "owners": ["692617937512562729"],
-  "admins": ["692617937512562729"],
-  "topgg": {
-    "uri": "https://top.gg/bot/1050423676689985606/vote",
-    "auth": ""
-  },
+  "prefix": "",
+  "color": "",
   "links": {
-    "support": "https://dsc.gg/1st-services"
+    "support": ""
   },
-  "player": {
-    "spotify": {
-      "id": "500295ff7af14eab8867381183553638",
-      "secret": "5c5696323ce54e18bffb79e02f1e8ebb"
-    },
-    "lavalink": [
-      {
-        "url": "",
-        "name": "",
-        "auth": "",
-        "secure": false
-      }
-    ],
-    "searchEngine": "youtube"
+  "spotify": {
+    "id": "",
+    "secret": ""
   },
+  "lavalink": [
+    {
+      "port": 443,
+      "secure": false,
+      "name": "",
+      "auth": "",
+      "host": ""
+    }
+  ],
+  "defaultSearchEngine": "",
+  "owners": [],
+  "admins": [],
+  "token": "",
   "webhooks": {
     "vote": ""
   },
-  "token": ""
+  "topgg": {
+    "uri": "",
+    "auth": ""
+  }
 }
