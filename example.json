@@ -1,17 +1,17 @@
 {
-  "token": "",
   "prefix": "",
-  "topgg": {
-    "auth": ""
-  },
+  "color": "",
   "links": {
     "support": ""
     "voteUri": "",
   },
   "owners": [],
   "admins": [],
-  "color": "",
+  "token": "",
   "webhooks": {
     "vote": ""
+  },
+  "topgg": {
+    "auth": ""
   }
 }
