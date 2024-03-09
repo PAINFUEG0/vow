@@ -1,31 +1,17 @@
 {
+  "token": "",
   "prefix": "",
-  "color": "",
+  "topgg": {
+    "auth": ""
+  }
   "links": {
+    "voteUri": "",
     "support": ""
   },
-  "spotify": {
-    "id": "",
-    "secret": ""
-  },
-  "lavalink": [
-    {
-      "port": 443,
-      "secure": false,
-      "name": "",
-      "auth": "",
-      "host": ""
-    }
-  ],
-  "defaultSearchEngine": "",
   "owners": [],
   "admins": [],
-  "token": "",
+  "color": "",
   "webhooks": {
     "vote": ""
   },
-  "topgg": {
-    "uri": "",
-    "auth": ""
-  }
 }
