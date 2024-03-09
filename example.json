@@ -3,7 +3,7 @@
   "prefix": "",
   "topgg": {
     "auth": ""
-  }
+  },
   "links": {
     "voteUri": "",
     "support": ""
@@ -13,5 +13,5 @@
   "color": "",
   "webhooks": {
     "vote": ""
-  },
+  }
 }
